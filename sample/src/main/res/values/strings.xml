@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Create Blog</string>
+    <string name="title_activity_main"> Blog Post</string>
+    <string name="title_view">View Blog</string>
+</resources>
